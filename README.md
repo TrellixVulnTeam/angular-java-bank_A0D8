@@ -25,12 +25,12 @@ And, for last but not least, you'll need to create a SQL table with the followin
 
 ## Screenshots
 
-<img width="1792" alt="Screenshot 2021-12-12 at 22 41 03" src="https://user-images.githubusercontent.com/37920932/145734688-611b6729-914e-4fcf-9e39-26feb6005c9a.png">
+<img width="1780" alt="1" src="https://user-images.githubusercontent.com/37920932/145735520-7f400485-9848-4776-bc49-039f0226b9db.png">
 
-<img width="1792" alt="Screenshot 2021-12-12 at 22 41 10" src="https://user-images.githubusercontent.com/37920932/145734704-b295b901-0085-4002-b9fc-895b87cbc50b.png">
+<img width="1778" alt="2" src="https://user-images.githubusercontent.com/37920932/145735530-4e4ce0f3-b2b6-4fb5-a3bf-b4a8020c8fb9.png">
 
-<img width="1792" alt="Screenshot 2021-12-12 at 22 41 23" src="https://user-images.githubusercontent.com/37920932/145734712-74564935-a403-41d0-90c5-17d779a06ab3.png">
+<img width="1779" alt="3" src="https://user-images.githubusercontent.com/37920932/145735536-5af76b3d-c549-4159-819c-150ce2924e6f.png">
 
-<img width="1792" alt="Screenshot 2021-12-12 at 22 41 34" src="https://user-images.githubusercontent.com/37920932/145734719-36baa79a-b1bc-4da7-b5cb-0b9586921f40.png">
+<img width="1776" alt="4" src="https://user-images.githubusercontent.com/37920932/145735539-7c92269d-6cb0-46be-9f45-eacae3117a24.png">
 
-<img width="1792" alt="Screenshot 2021-12-12 at 22 41 50" src="https://user-images.githubusercontent.com/37920932/145734730-de96faa8-03ce-42bd-9269-7af3fd54037d.png">
+<img width="1779" alt="5" src="https://user-images.githubusercontent.com/37920932/145735550-954acfaa-93e9-423b-a69b-f895f83af674.png">
